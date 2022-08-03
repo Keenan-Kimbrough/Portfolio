@@ -43,7 +43,7 @@ function About() {
                 quos ipsam esse rem vitae dolorem officiis amet, beatae consectetur? 
                 Harum aspernatur voluptates architecto fugiat ut.
             </p>
-        <a href="#contact" className='btn btn-primary'></a>
+        <a href="#contact" className='btn btn-primary'> Let's Talk</a>
             </div>
         </div>
             
