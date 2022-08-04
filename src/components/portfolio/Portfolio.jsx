@@ -13,7 +13,7 @@ const data = [
 
     {
         id: 1,
-        image: img2,
+        image: img1,
         title: '  Black Jack App',
         github: 'https://github.com',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
@@ -27,28 +27,28 @@ const data = [
     },
     {
         id: 3,
-        image: img2,
+        image: img3,
         title: 'Ecommerce Website',
         github: 'https://github.com',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
     },
     {
         id: 4,
-        image: img2,
+        image: img4,
         title: 'Searching Algorithm App',
         github: 'https://github.com',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
     },
     {
         id: 5,
-        image: img2,
+        image: img5,
         title: 'Commercial Vehicle Tracker App ',
         github: 'https://github.com',
         demo: 'https://github.com'
     },
     {
         id: 6,
-        image: img2,
+        image: img6,
         title: ' Social Media App',
         github: 'https://github.com',
         demo: 'https://github.com'
