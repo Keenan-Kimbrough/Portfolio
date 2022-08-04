@@ -2,13 +2,13 @@ import React from 'react'
 import './footer.css'
 import {FaInstagram} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
-import {IoLogoTwitter} from 'react-icons/Io'
+import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
     <footer>
         <a href='a' className='footer__logo'> Kimbrough Technology</a>
 <ul className="permalinks">
-    <li> <a href="#"> Home </a></li>
+<li> <a href="#"> Home </a></li>
     <li> <a href="#about"> About </a></li>
     <li> <a href="#experience"> Experience </a></li>
     <li> <a href="#services"> Services </a></li>
