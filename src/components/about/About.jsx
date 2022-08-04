@@ -38,7 +38,7 @@ function About() {
                 </article> 
             </div>
             <p>
-                Loving Life!
+                Hi There!
                 <br/>
                 <br/>
                 I've always have been a great problem solver and into technology! 
