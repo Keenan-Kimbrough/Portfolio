@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
-import me from '../../assets/me.jpg'
 import Henoak from '../../assets/Henoak.jpeg'
 import Jasmine from '../../assets/Jasmine.jpeg'
 import valentine from '../../assets/valentine.jpeg'
+
 // import Swiper core and required modules
 import { Pagination, A11y } from 'swiper';
 
@@ -24,12 +24,12 @@ review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur co
 },
 {
 avatar:Henoak,
-name: "Cheyenne Weber",
+name: "Henoak Eshetu",
 review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequatur pariatur quaerat atque nam, veniam totam, dolores quos magnam a temporibus sequi nulla. Dolorum maxime explicabo dolore. Voluptates, minima at. '
 },
 {
 avatar:valentine,
-name: "Henoak Eshetu",
+name: "Valetine Asalu",
 review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequatur pariatur quaerat atque nam, veniam totam, dolores quos magnam a temporibus sequi nulla. Dolorum maxime explicabo dolore. Voluptates, minima at. '
  }
 ]
