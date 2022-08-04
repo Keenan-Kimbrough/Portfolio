@@ -56,16 +56,32 @@ header {
  /* tablets */
 @media screen and (max-width: 1024px) {
     header {
-        height: 60vh;
+        height: 100vh;
+        position: relative;
     }
+    .me {
+        width: 65%;
+        position: absolute ;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+
 }
 
  /* small devices */
 @media screen and (max-width: 600px) {
     header {
         height:  100vh;
+        position: relative
     }
     .header__socials, .scroll__down {
         display: none;
     } 
+    .me {
+        width: 65%;
+    position: absolute ;
+top:85%;
+left: 50%;
+transform: translate(-50%, -50%)}
 }
