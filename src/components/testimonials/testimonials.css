@@ -41,7 +41,7 @@
  /* small devices */
 @media screen and (max-width: 600px) {
 .container.testimonials__container{
-    width: var(--container-wdith-sm)
+    width: var(--container-width-sm)
 }
 .client__avatar{
     width: var(--container-width-sm)
