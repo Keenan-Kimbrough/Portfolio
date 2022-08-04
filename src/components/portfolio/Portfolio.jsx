@@ -80,7 +80,7 @@ const Portfolio = () => {
         }
         
     </div>
-        Portfolio
+        
 
 
 
