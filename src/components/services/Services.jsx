@@ -18,38 +18,38 @@ const Services = () => {
                 <ul className="service__list">
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Design Pyschology</p>
                     </li>
 
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Research Methods</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Information Architecture</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Wireframing / Prototyping</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Interaction Design </p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Inclusion Design</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Advanced UI Development</p>
                     </li>
 
                     <li>
@@ -67,46 +67,48 @@ const Services = () => {
                     <h3> Web Development </h3>
                 </div>
                 <ul className="service__list">
+
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Professional Scrum Master Certified</p>
+                    </li>
+                    <li>
+                        <BiCheck className="service__list-icon"/>
+                            <p> Computer Literacy</p>
                     </li>
 
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Strong Numeracy Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Strong Creative Ability</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Attention to detail</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Excellent Problem Solving skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p>Excellent Communication Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Good Time Management Skills</p>
                     </li>
 
-                    <li>
-                        <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
-                    </li>
+                   
 
                 </ul>
             </article>
@@ -120,43 +122,43 @@ const Services = () => {
                 <ul className="service__list">
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Editing Skills</p>
                     </li>
 
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Deep understanding of Sales funnels</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Planning Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="services__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> SEO Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="services__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Content Promotion Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Data Analysis Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p> Technical Skills</p>
                     </li>
 
                     <li>
                         <BiCheck className="service__list-icon"/>
-                            <p> Lorem, ipsum dolor sit amet consectectur elit.</p>
+                            <p>  Influencer Experience</p>
                     </li>
 
                 </ul>
