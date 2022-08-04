@@ -7,7 +7,7 @@ const data = [
 
     {
         id: 1,
-        image: img2,g
+        image: img2,
         title: '  Black Jack App',
         github: 'https://github.com',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
