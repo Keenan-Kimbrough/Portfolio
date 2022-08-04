@@ -1,22 +1,25 @@
 import React from 'react'
 import './testimonials.css'
 import me from '../../assets/me.jpg'
+import Henoak from '../../assets/Henoak.jpeg'
+import Jasmine from '../../assets/Jasmine.jpeg'
+import valentine from '../../assets/valentine.jpeg'
 
 
 const data =[
 {
-avatar:me,
+avatar:Jasmine,
 name: "Jasmine Wallace",
 review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequatur pariatur quaerat atque nam, veniam totam, dolores quos magnam a temporibus sequi nulla. Dolorum maxime explicabo dolore. Voluptates, minima at. '
 },
 {
-avatar:me,
-name: "Jasmine Wallace",
+avatar:Henoak,
+name: "Cheyenne Weber",
 review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequatur pariatur quaerat atque nam, veniam totam, dolores quos magnam a temporibus sequi nulla. Dolorum maxime explicabo dolore. Voluptates, minima at. '
 },
 {
-avatar:me,
-name: "Jasmine Wallace",
+avatar:valentine,
+name: "Henoak Eshetu",
 review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequatur pariatur quaerat atque nam, veniam totam, dolores quos magnam a temporibus sequi nulla. Dolorum maxime explicabo dolore. Voluptates, minima at. '
  }
 ]
