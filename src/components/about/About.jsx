@@ -73,7 +73,7 @@ function About() {
                 and senior software engineers on projects as well. I'm familiar with a variety of programming 
                 languages and frameworks, including TypeScript, JavaScript,ReactJS, HTML, CSS, Python, DJango, Java,
                 C++, and SQL, but I am always trying my best to add new skills to my repertoire. 
-                In addition, I would love to meet other software engineers, so feel free to reach out to me to connect! :)
+                In addition, I would love to meet other software engineers, so feel free to reach out to me to connect! :g
             </p>
         <a href="#contact" className='btn btn-primary'> Let's Talk</a>
             </div>
