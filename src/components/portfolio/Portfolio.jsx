@@ -1,6 +1,12 @@
 import React from 'react'
 import IMG1 from '../../assets/IMG1.png'
 import img2 from '../../assets/img2.jpeg'
+import img3 from '../../assets/img3.jpg'
+import img4 from '../../assets/img4.jpeg'
+import img5 from '../../assets/img5.jpeg'
+import img6 from'../../assets/img6.jpeg'
+import img1 from'../../assets/img1.jpeg'
+
 import './portfolio.css'
 
 const data = [
@@ -44,13 +50,6 @@ const data = [
         id: 6,
         image: img2,
         title: ' Social Media App',
-        github: 'https://github.com',
-        demo: 'https://github.com'
-    },
-    {
-        id: 7,
-        image: img2,
-        title: ' Project 1',
         github: 'https://github.com',
         demo: 'https://github.com'
     }
