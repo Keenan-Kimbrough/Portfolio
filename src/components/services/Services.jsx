@@ -1,7 +1,7 @@
 import React from 'react'
 import {BiCheck} from 'react-icons/bi'
 import './services.css'
-import '../../index.css'
+
 
 const Services = () => {
   return (
@@ -59,9 +59,9 @@ const Services = () => {
 
                 </ul>
             </article>
-            </div>
+            
             {/* End Of UI/ UX */}
-            <div className="cotainer service__container">
+            
             <article className="service">
                 <div className="service__head">
                     <h3> Web Development </h3>
@@ -110,9 +110,9 @@ const Services = () => {
 
                 </ul>
             </article>
-            </div>
+            
             {/* End of Web Development*/}
-            <div className="cotainer service__container">
+            
             <article className="service">
                 <div className="service__head">
                     <h3> Content Creation</h3>
