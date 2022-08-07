@@ -14,7 +14,7 @@ const data = [
     {
         id: 1,
         image: img1,
-        title: '  Black Jack App',
+        title: ' Live Multiplayer Black Jack App',
         github: 'https://github.com/Keenan-Kimbrough/Black_Jack_React_TypeScript',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
     },
@@ -35,7 +35,7 @@ const data = [
     {
         id: 4,
         image: img4,
-        title: 'Searching Algorithm App',
+        title: 'Lidar Labeling AI Tool',
         github: 'https://github.com',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
     },
@@ -51,7 +51,7 @@ const data = [
         image: img6,
         title: ' Social Media App',
         github: 'https://github.com/Keenan-Kimbrough/Twitter-App',
-        demo: 'https://github.com'
+        demo: 'https://github.com/Keenan-Kimbrough/Twitter-App'
     }
 ]
 const Portfolio = () => {
