@@ -44,12 +44,12 @@ const Contact = () => {
                         <h5> Kimbrough Technology </h5>
                         <a href="mailto::Keenankimbrough@gmail.com" target="_blank"> Send a message</a>
                 </article>
-                <article>
-                    <BsWhatsapp className='contact__option-icon'/>
+                {/*<article>
+                <BsWhatsapp className='contact__option-icon'/>
                     <h4> WhatsApp </h4>
                         <h5> " what's App number"</h5>
                         <a href="https://api.whatsapp.com/send?phone=+41222222" target="_blank"> Send a message</a>
-                </article>
+  </article>*/}
             </div>
             {/* end of contact options} */}
             <form ref={form} onSubmit={sendEmail}>

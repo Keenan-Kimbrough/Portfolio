@@ -14,7 +14,7 @@ const data = [
     {
         id: 1,
         image: img1,
-        title: ' Live Multiplayer Black Jack App',
+        title: ' Multiplayer Black Jack App',
         github: 'https://github.com/Keenan-Kimbrough/Black_Jack_React_TypeScript',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
     },
@@ -32,22 +32,9 @@ const data = [
         github: 'https://github.com/Keenan-Kimbrough/Clothing-Store-ReactJS',
         demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
     },
+    
     {
         id: 4,
-        image: img4,
-        title: 'Lidar Labeling AI Tool',
-        github: 'https://github.com',
-        demo: 'https://https://www.forbes.com/sites/bernardmarr/2022/01/05/the-10-tech-trends-that-will-transform-our-world/.com'
-    },
-    {
-        id: 5,
-        image: img5,
-        title: 'Commercial Vehicle Tracker App ',
-        github: 'https://github.com',
-        demo: 'https://github.com'
-    },
-    {
-        id: 6,
         image: img6,
         title: ' Social Media App',
         github: 'https://github.com/Keenan-Kimbrough/Twitter-App',
@@ -72,7 +59,7 @@ const Portfolio = () => {
                     <h3> {title}</h3>
                     <div className="portfolio_item-cta">
                         <a href={github} className='btn' target='_blank'> GitHub</a>
-                        <a href={demo} className='btn btn-primary' target='_blank'> Live Demo </a>
+                        {/*<a href={demo} className='btn btn-primary' target='_blank'> Live Demo </a>*/}
                     </div>
                 </article>
                 )
