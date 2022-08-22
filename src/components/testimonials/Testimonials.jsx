@@ -20,11 +20,11 @@ const data =[
 {
 avatar:Jasmine,
 name: "Jasmine Wallace",
-review: 'Keenan was nothing short of FANTASTIC, from day one he had quanitifiable deliverables. He was always pleasent to talk to and was definitely a positive addition to my organizaion. '
+review: ' From day one Keenan had quanitifiable deliverables. He was always pleasent to talk to and was definitely a positive addition to my organizaion. '
 },
 {
 avatar:Henoak,
-name: "Henoak Eshetu",
+name: "Henoak",
 review: 'I have known Keenan for the past 10 years from our college days at The Pennsylvania State University. He was always doing great things in the community as well as professionally. All in all, while working with Keenan on engineering projects he has shown the ability so succeed. '
 },
 {
