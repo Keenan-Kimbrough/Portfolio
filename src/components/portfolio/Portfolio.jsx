@@ -6,6 +6,8 @@ import img4 from '../../assets/img4.jpeg'
 import img5 from '../../assets/img5.jpeg'
 import img6 from'../../assets/img6.jpeg'
 import img1 from'../../assets/img1.jpeg'
+import img7 from '../../assets/img7.jpeg'
+import img8 from '../../assets/img8.jpeg'
 
 import './portfolio.css'
 
@@ -39,7 +41,22 @@ const data = [
         title: ' Social Media App',
         github: 'https://github.com/Keenan-Kimbrough/Twitter-App',
         demo: 'https://github.com/Keenan-Kimbrough/Twitter-App'
-    }
+    },
+    {
+        id: 5,
+        image: img7,
+        title: "Inventory Optimization App",
+        github: 'https://github.com/Keenan-Kimbrough/Inventory-Optimzation-App',
+        demo: "https://github.com/Keenan-Kimbrough/Inventory-Optimzation-App",
+    
+    },
+    {
+        id: 6,
+        image: img8,
+        title: "Pig Game App",
+        github: "https://github.com/Keenan-Kimbrough/Pig_Game",
+        demo: "https://github.com/Keenan-Kimbrough/Pig_Game"
+    }, 
 ]
 const Portfolio = () => {
   return (
