@@ -38,9 +38,9 @@ const data = [
     {
         id: 4,
         image: img6,
-        title: ' Social Media App',
-        github: 'https://github.com/Keenan-Kimbrough/Twitter-App',
-        demo: 'https://github.com/Keenan-Kimbrough/Twitter-App'
+        title: 'Business Management System',
+        github: 'https://github.com/Keenan-Kimbrough/Business-Management-System-App',
+        demo: 'https://github.com/Keenan-Kimbrough/Business-Management-System-App'
     },
     {
         id: 5,
